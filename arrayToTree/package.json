@@ -1,5 +1,5 @@
 {
-  "name": "arraytotree",
+  "name": "@wanyang/arraytotree",
   "version": "1.0.0",
   "description": "change an array to a tree",
   "main": "index.js",
